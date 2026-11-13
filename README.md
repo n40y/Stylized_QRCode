@@ -1,29 +1,29 @@
-# Générateur de QR Codes Stylisés
+# Stylized QR Code Generator
 
-Un outil en Python pour générer des QR codes personnalisés avec différentes formes et styles de couleur.
-
----
-
-## 📌 Fonctionnalités
-
-- **Formes personnalisables** : Carrés, cercles, carrés arrondis, barres verticales/horizontales, etc.
-- **Couleurs et dégradés** : Noir uni, dégradé radial, horizontal, ou vertical.
-- **Interface interactive** : Menu stylisé dans le terminal pour une expérience utilisateur agréable.
-- **Sortie personnalisable** : Choisis le nom et l'emplacement du fichier de sortie.
+A Python tool for generating custom QR codes with various shapes and color styles.
 
 ---
 
-## 📦 Prérequis
+## 📌 Features
 
-- Python 3.6 ou supérieur
-- Un environnement virtuel (recommandé)
+- **Customizable shapes**: Squares, circles, rounded squares, vertical/horizontal bars, etc.
+- **Colors and gradients**: Solid black, radial, horizontal, or vertical gradient.
+- **Interactive interface**: A stylized menu within the terminal for an enjoyable user experience.
+- **Customizable output**: Choose the name and location of the output file.
+
+---
+
+## 📦 Requirements
+
+- Python 3.6 or high
+- A virtual environment (recommended)
 
 ---
 
 ## 🛠 Installation
 
-1. Clone ce dépôt ou télécharge les fichiers.
-2. Crée et active un environnement virtuel :
+1. Clone this repository or download the files.
+2. Create and activate a virtual environment:
    ```bash
    python3 -m venv venv
    source venv/bin/activate  # Sous Linux/Mac
